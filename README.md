@@ -8,7 +8,7 @@ First, you to install package controller from [packagecontrol.io](https://packag
 
 ## List of plugins I used
 
-*  [Emmet](https://packagecontrol.io/packages/Emmet for HTML/CSS autocomplete
+*  [Emmet](https://packagecontrol.io/packages/Emmet) for HTML/CSS autocomplete
 *  [HTML-CSS-JS Prettify](https://packagecontrol.io/packages/HTML-CSS-JS%20Prettify) for code formatting
 * [Sublime​Code​Intel](https://packagecontrol.io/packages/SublimeCodeIntel) for code intelligence and smart autocomplete engine 
 
