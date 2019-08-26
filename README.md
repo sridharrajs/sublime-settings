@@ -18,19 +18,33 @@ I used [Material Theme](https://github.com/equinusocio/material-theme) for Subli
 
 ## Keybindings
 
+**Navigation**
+
+| Description | Command |
+|-------------|---------|
+| Open files| `Crtl/Command` + `P` |
+| Goto line in current file| `Ctrl/Command` + `G` |
+| List function within file| `Ctlr/Command` + `R` |
+
+**Search**
+
+| Description | Command |
+|-------------|---------|
+| Find the files which has this keyword within folders | `Crtl/Command` + `Shift` + `F` |
+
 **Window**
 
 | Description | Command |
 |-------------|---------|
 | Toggle sidebar | `Ctrl/Command` + `KB` |
-| Select a word when you are in middle of the word | `Ctrl/Command` + `D` |
 
-**File** 
+**Content**
 
 | Description | Command |
 |-------------|---------|
-| File open sidebar | `Ctrl/Command` + `P` |
-
+| Select a word when you are in middle of the word | `Ctrl/Command` + `D` |
+| To move the block up | `Ctrl/Command` + `Shift` + `Up` |
+| To move the block dpwn | `Ctrl/Command` + `Shift` + `Down` |
 
 ## Reference
 
